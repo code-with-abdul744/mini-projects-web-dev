@@ -10,3 +10,5 @@ HTML, CSS, JavaScript, and more as I learn.
 
 - LinkedIn: [Abdul Shayan](https://www.linkedin.com/in/abdul-shayan-83b48b3b2)
 - Email: codewithme746@gmail.com
+
+“Sample content used for practice. in projects.”
